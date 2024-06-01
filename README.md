@@ -1,4 +1,4 @@
-# Task Manager To-Do List (Frontend Version)
+# Task Manager - To-Do List (Frontend Version)
 
 This is a frontend project for a Task Manager To-Do List application. It is built using React. You will need also backend version of this project to use it. 
 
