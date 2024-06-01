@@ -45,4 +45,14 @@ Provides a form for creating new tasks.
 ***App.tsx***
 Main component that integrates `TaskForm`, `TaskList`, and `TaskHistory`.
 
+## Styling
 
+The CSS for the application is included in the `App.css` file.
+
+## Contributing
+
+Contributions are welcome! Please fork this repository and create a pull request to submit your changes.
+
+## License 
+
+This project is not currently licensed. If you wish to use the code for commercial purposes, please contact me to discuss licensing options.
