@@ -27,3 +27,6 @@ To run the application, use the following command:
 ```bash
 npm start
 ```
+
+The application will be available at http://localhost:3000.
+Ensure that the backend API is running at http://localhost:8000.
