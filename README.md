@@ -30,3 +30,19 @@ npm start
 
 The application will be available at http://localhost:3000.
 Ensure that the backend is running at http://localhost:8000.
+
+## Components
+
+***TaskList.tsx***
+Displays the list of tasks, allowing users to mark tasks as completed or delete them.
+
+***TaskHistory.tsx***
+Displays the history of completed tasks. Allows users to move tasks back to the active list or delete them.
+
+***TaskForm.tsx***
+Provides a form for creating new tasks.
+
+***App.tsx***
+Main component that integrates `TaskForm`, `TaskList`, and `TaskHistory`.
+
+
